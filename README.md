@@ -1,4 +1,4 @@
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBaharTaskin%2FBaharTaskin&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
@@ -18,7 +18,7 @@
 
 <i>Breaking software before users do. 🐛</i> <br><br>
 
-👋 Hi there! I'm Bahar — a **Full Stack Testere** passionate about quality, automation, and making software bulletproof.
+👋 Hi there! I'm Bahar — a **Full Stack Tester** passionate about quality, automation, and making software bulletproof.
 
 Based in **Ankara, Turkey** 🇹🇷, I specialize in building robust test automation frameworks and ensuring end-to-end software quality across the full SDLC.
 
