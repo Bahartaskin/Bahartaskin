@@ -1,169 +1,174 @@
-
-
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBaharTaskin%2FBaharTaskin&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
-  <br><br>
-  <a href="https://www.linkedin.com/in/bahar-taskin/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile of Bahar Taskin" /></a>
-  <a href="mailto:cakirbhr7@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Bahar Taskin" /></a>
-  <a href="https://github.com/BaharTaskin"><img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub profile of Bahar Taskin" /></a>
-</div>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bahar%20TASKIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20%7C%20Test%20Automation%20Engineer%20%7C%20SDET&descSize=16&descAlignY=52" width="100%"/>
 
-<br>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Software+Development+Engineer+in+Test;Selenium+%7C+Cucumber+%7C+Java+%7C+JUnit;Test+Automation+%7C+BDD+%7C+API+Testing" alt="Typing SVG" />
+</a>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=BaharTaskin&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile Views" />
+</p>
 
-<div>
-
-<i>Breaking software before users do. 🐛</i> <br><br>
-
-👋 Hi there! I'm Bahar — a **Full Stack Tester** passionate about quality, automation, and making software bulletproof.
-
-Based in **Ankara, Turkey** 🇹🇷, I specialize in building robust test automation frameworks and ensuring end-to-end software quality across the full SDLC.
-
-A little more about me:
-
-- 🎓 Graduated from **Middle East Technical University (METU)** with a Bachelor's Degree in Engineering (2008–2013)
-- 🔧 Working as **Full Stack Testere at CYDEO** — building and maintaining test automation frameworks from scratch
-- 🤖 Experienced in **Selenium WebDriver, Cucumber BDD, Rest Assured, Java, JUnit, Maven** and more
-- 🗃️ Love writing complex **SQL queries** for back-end validation and database testing
-- 📋 Actively working in **Agile/Scrum** environments — Daily Standups, Sprint Planning, Grooming, Demo & Retro
-- 🔗 Connecting **UI, API, and Database** layers in one unified automation framework
-- 📈 Always learning — dedicated to growing my skills every day
-
-💜 I believe in writing clean, maintainable test code that acts as living documentation for the product.
+<p>
+  <a href="https://www.linkedin.com/in/bahar-taskin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:cakirbhr7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/BaharTaskin">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 </div>
 
-<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Skills Section  ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 
-## 🛠️ Tech Stack & Skills
+## 👩‍💻 About Me
+
+**Software Development Engineer in Test (SDET)** based in Ankara, Turkey 🇹🇷
+
+Experienced in manual & automation testing for web-based applications across the full Software Development Life Cycle (SDLC). Passionate about building robust, scalable test frameworks that catch bugs before users do.
+
+Working in Agile/Scrum teams at CYDEO, contributing to sprint ceremonies (Daily Standups, Planning, Grooming, Demo & Retro). 
+
+Graduated from **Middle East Technical University (METU)** with a Bachelor's Degree. Strong believer in teamwork, continuous learning, and clean test code.
+
+```java
+public class BaharTaskin {
+
+    String name       = "Bahar TASKIN";
+    String title      = "Software Development Engineer in Test (SDET)";
+    String location   = "Ankara, Turkey";
+    String email      = "cakirbhr7@gmail.com";
+    String university = "Middle East Technical University (METU)";
+
+    String[] techStack = {
+        "Java", "Selenium WebDriver", "Cucumber (BDD)",
+        "Rest Assured", "JUnit", "TestNG",
+        "Maven", "Jenkins", "SQL",
+        "Postman", "Git / GitHub", "Jira", "TestRail"
+    };
+
+    String[] frameworks = {
+        "Page Object Model (POM)",
+        "Behavior-Driven Development (BDD)",
+        "Data-Driven Testing",
+        "Hybrid Framework"
+    };
+
+    String[] interests = {
+        "Test Automation",
+        "API Testing",
+        "Database Validation",
+        "CI/CD Pipelines"
+    };
+}
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Testing Tools
+### 🧪 Testing Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest_Assured-43B02A?style=for-the-badge&logoColor=white)
 
-### Languages
+### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
-### Build & CI/CD
+### ⚙️ Build & CI/CD
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Databases
+### 🗃️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Project & Test Management
+### 📋 Project & Test Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-
-### IDE
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Frameworks Section ------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 
 ## 🏗️ Frameworks & Methodologies
 
-| Framework / Methodology | Description |
+| 🔖 Framework | 📝 Description |
 |---|---|
-| 🥒 **BDD (Behavior-Driven Development)** | Writing human-readable test scenarios with Gherkin & Cucumber |
-| 📄 **Page Object Model (POM)** | Structured UI automation with maintainable page classes |
-| 📊 **Data-Driven Testing** | Parameterized tests with Apache POI & external data sources |
-| 🔀 **Hybrid Framework** | Combining POM + Data-Driven for scalable test coverage |
-| 🔗 **REST API Testing** | End-to-end API validation with Rest Assured & Postman |
-| 🗃️ **Database Testing** | Backend validation with JDBC + complex SQL queries |
-| ⚡ **Agile / Scrum** | Sprint ceremonies, Jira tracking, CI/CD with Jenkins |
+| 🥒 **BDD — Cucumber** | Human-readable Gherkin scenarios connected to Selenium steps |
+| 📄 **Page Object Model** | Maintainable UI layer with reusable page classes |
+| 📊 **Data-Driven Testing** | Parameterized test execution via Apache POI |
+| 🔀 **Hybrid Framework** | POM + Data-Driven combined for maximum coverage |
+| 📡 **REST API Testing** | Full API validation with Rest Assured + Serenity + JUnit |
+| 🗄️ **Database Testing** | Backend cross-validation via JDBC + complex SQL queries |
+| ⚡ **Agile / Scrum** | Sprint planning, daily standups, demos, retrospectives |
 
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Experience Section ------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 
 ## 💼 Experience
 
-### 🏢 [CYDEO](https://cydeo.com) — Full Stack Testere
-**September 2022 – Present**
+### 🏢 CYDEO — Software Development Engineer in Test
+**📅 September 2022 – Present**
 
-Working on the **OpenCRM Web-Based Application** as part of an Agile/Scrum team:
+> Working on the **OpenCRM Web-Based Application** in an Agile/Scrum environment
 
-- ✅ Participating in Grooming, Daily Scrum, Demo and Retro ceremonies every sprint
-- 🔥 Running **Smoke Tests** daily via Jenkins CI pipeline
-- 🔄 Running full **Regression Tests** after every sprint completion
-- 📝 Writing detailed **Test Cases** with Positive & Negative scenarios based on Test Plans
-- 🛠️ Managing test cases and bug reports using **Jira** and **TestRail**
-- 🤝 Performing both **manual** and **automated** testing on all feature deliverables
+- ✅ Active participant in Grooming, Daily Scrum, Demo and Retro every sprint
+- 🔥 Running daily **Smoke Tests** via Jenkins CI pipeline
+- 🔄 Executing full **Regression Test** suites after every sprint
+- 📝 Writing **Test Cases** with Positive & Negative scenarios from Test Plans
+- 🛠️ Tracking test cases and bugs in **Jira** and **TestRail**
+- 🤝 Performing both **manual** and **automated** testing on feature deliverables
 - 🗃️ Writing complex **SQL queries** for backend/database validation
-- 📡 Using **Postman** and **Rest Assured + Serenity** for API testing with JUnit
-- 🎭 Asserting UI behavior via **Cucumber BDD** with JUnit & Selenium WebDriver
-- 🔗 Performing **UI ↔ DB** cross-validation in a unified Cucumber BDD framework
-- 🔗 Integrating **GitHub → Jenkins** for automated smoke test triggers
-- 📊 Generating and sharing **Cucumber HTML Reports** for test result visibility
+- 📡 API testing with **Postman** and **Rest Assured + Serenity**
+- 🎭 UI assertion via **Cucumber BDD** with JUnit & Selenium WebDriver
+- 🔗 **UI ↔ DB** cross-validation in a unified Cucumber BDD framework
+- 🔗 **GitHub → Jenkins** integration for automated smoke test triggers
+- 📊 Sharing **Cucumber HTML Reports** after each automated test run
 
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Projects Section ---------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## 🚀 My Projects
-
-- 🌐 **OpenCRM Test Automation Framework** — End-to-end automation suite for a CRM web app using Selenium, Cucumber BDD, JUnit, Maven and JDBC. Covers UI, API and Database layers in one unified framework.
-- 📡 **REST API Test Suite** — Automated API test collection using Rest Assured + Serenity, covering CRUD operations with full assertion and reporting.
-- 🗃️ **Database Validation Layer** — JDBC-based backend testing module that cross-validates UI data with Oracle/MySQL database records.
-- ⚡ **Jenkins CI Pipeline** — Configured GitHub-integrated Jenkins pipelines for daily smoke and sprint regression test runs with Cucumber reporting.
-
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Education Section -------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 
 ## 🎓 Education
 
 🏛️ **Middle East Technical University (METU)** — Ankara, Turkey  
-📜 Bachelor's Degree | 2008 – 2013
+📜 Bachelor's Degree &nbsp;|&nbsp; 2008 – 2013
 
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Stats Section ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BaharTaskin&show_icons=true&theme=dark&hide_border=true" alt="Bahar's GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaharTaskin&theme=dark&hide_border=true" alt="Bahar's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BaharTaskin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaharTaskin&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br>
 
-<hr>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BaharTaskin&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 <div align="center">
-  <i>"Quality is not an act, it is a habit." — Aristotle</i>
+  <i>🐛 "Quality is not an act, it is a habit." — Aristotle</i>
 </div>
-                               
