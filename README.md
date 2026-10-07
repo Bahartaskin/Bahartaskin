@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Bahar%20Cakir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20Specialist%20|%20Machine%20Learning%20|%20Data%20Analytics&descAlignY=55"/>
 
-# Hi 👋 I'm Bahar Cakir
+# Hi 👋 I'm Bahar Taskin
 
 ### Aspiring AI Specialist | Machine Learning Enthusiast | Data Analyst
 
